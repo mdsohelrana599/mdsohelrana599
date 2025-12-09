@@ -1,5 +1,6 @@
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D4D16AQHzVVmS0nXKQw/profile-displaybackgroundimage-shrink_350_1400/B4DZsBYDVRJoAY-/0/1765254642440?e=1766620800&v=beta&t=QSkDINS7TESLzsDYmPVstY6cAtg-kfTSebnBA3Mp-0I)
+
 ### Hi there 👋, MD SOHEL RANA
-![](https://i.ibb.co.com/TMdqDmvD/cover.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
