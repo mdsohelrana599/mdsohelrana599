@@ -4,8 +4,7 @@
 <h3 align="center">A passionate frontend developer from bangldesh</h3>
 
 
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQGFg3A1576Y7A/profile-displaybackgroundimage-shrink_350_1400/B56ZsC84NSL8AY-/0/1765281073241?e=1769644800&v=beta&t=2_HNf1IHbmO_0n96aa1BxKqS7j-NI6wrO5vOvwUwTSQ)
-
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQGFg3A1576Y7A/profile-displaybackgroundimage-shrink_350_1400/B56ZsC84NSL8AY-/0/1765281073241?e=1772064000&v=beta&t=3yQg1PlF4t-EgWMTKJiR6tUZfM1hNSkoyJIl-qWfwWM)
 # 💫 About Me:
 Hi! I’m a passionate web developer who loves building modern, user-friendly applications. I work mainly with JavaScript, React, Node.js, and Tailwind CSS, and I enjoy turning ideas into clean, functional code. Always learning, always improving, and excited to explore new technologies 🚀
 
